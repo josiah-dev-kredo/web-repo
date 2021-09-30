@@ -1,5 +1,5 @@
 docker build -t python-test . 
-docker run python-
+docker run python-test
 
 #heroku
 
